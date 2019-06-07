@@ -1,13 +1,13 @@
 html {
     font-family: monospace, sans-serif;
     text-align: center;
-    background: rgb(0,35,149);
-    background-image: linear-gradient(90deg, rgba(0,35,149,1) 0%, rgba(255,227,182,1) 0%, rgba(213,251,255,1) 100%);
 }
 
 body {
     max-width: 500px;
     margin: 0 auto;
+    background: rgb(0,35,149);
+    background: linear-gradient(90deg, rgba(0,35,149,1) 0%, rgba(255,227,182,1) 0%, rgba(213,251,255,1) 100%);
 }
 
 input {
