@@ -3,6 +3,7 @@ Got To-Do App
 
 ### Built With
 * [Materialize] (https://materializecss.com)
+* [Font Awesome] (https://fontawesome.com)
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
 
