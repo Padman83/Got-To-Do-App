@@ -12,4 +12,4 @@ Got To-Do App.
 
 ## Contact
 
-Project Link: [https://github.com/Padman83/Got-To-Do-App](https://github.com/Padman83/Got-To-Do-App)
+Project Link: [https://github.com/Padman83/Got-To-Do-App]
